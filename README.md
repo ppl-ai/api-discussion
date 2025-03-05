@@ -1,6 +1,6 @@
 # 📢 Perplexity Sonar API Discussion
 
-Welcome to the **Perplexity Sonar API Discussion** repository! 🎙️ This space is dedicated to fostering discussions, sharing feedback, and addressing questions related to the **Perplexity Sonar API**.
+Welcome to the **Perplexity Sonar API Discussion** repository! 🎙️ This space is dedicated to fostering discussions, sharing feedback, and addressing questions related to the **Sonar API**.
 
 ## 💡 Purpose of This Repository
 This repository serves as a **central hub** for:
@@ -37,4 +37,4 @@ We encourage contributions from the community! If you’d like to share improvem
 
 ---
 
-Thank you for being a part of the **Perplexity Sonar API community!** 🚀 Let’s build together. 💡
+Thank you for being a part of the **Sonar API community!** 🚀 Let’s build together. 💡
