@@ -1,6 +1,9 @@
 # Perplexity Sonar API Discussion
+## UPDATE: Sunsetting Repository (May 19th, 2025)
 
-Welcome to the **Perplexity Sonar API Discussion** repository. This space is dedicated to discussions, feedback, and questions related to the **Sonar API**.
+Thanks for being a user of Sonar! We're currently in the process of migrating our discussions page to a new home: [community.perplexity.ai](community.perplexity.ai). This repository will be shutting down soon, please post your thoughts and questions there! 
+
+
 
 ![Sonar API](assets/sonar.avif)
 
